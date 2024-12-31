@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%20//github.com/SoHyeon-cmyk/youtube-ex.git/static/css/main.96afde96.css",
+    "main.js": "/%20//github.com/SoHyeon-cmyk/youtube-ex.git/static/js/main.7845d556.js",
+    "index.html": "/%20//github.com/SoHyeon-cmyk/youtube-ex.git/index.html",
+    "main.96afde96.css.map": "/%20//github.com/SoHyeon-cmyk/youtube-ex.git/static/css/main.96afde96.css.map",
+    "main.7845d556.js.map": "/%20//github.com/SoHyeon-cmyk/youtube-ex.git/static/js/main.7845d556.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96afde96.css",
+    "static/js/main.7845d556.js"
+  ]
+}
